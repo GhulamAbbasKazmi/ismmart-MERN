@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .shopping-card {
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    background: scroll;
+  }
+  
+  .product-item {
+    padding: 20px;
+  }
+ .sup{
+  font-size: 1.2em;
+ }
+
+.shopping-card .logo img{
+width: 100px;
+margin-left: 49%;
+cursor: pointer;
+}
